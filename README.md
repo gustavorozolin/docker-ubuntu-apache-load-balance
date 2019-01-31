@@ -25,7 +25,7 @@ now you can run the docker command
 
 and see the result
 
-    http://localhost
+    [http://localhost](http://localhost)
     
 that's all folks 🍻
 
