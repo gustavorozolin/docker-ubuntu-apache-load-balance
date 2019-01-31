@@ -23,9 +23,7 @@ now you can run the docker command
 
     docker run --rm -p 80:80 -v /path/to/conf-file/:/etc/apache2/sites-enabled/ gustavorozolin/ubuntu-apache-load-balance:latest
 
-and see the result
-
-    [http://localhost](http://localhost)
+and see the result at [http://localhost](http://localhost)
     
 that's all folks 🍻
 
